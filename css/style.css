@@ -1,0 +1,15 @@
+body {
+font-family: Times New Roman;
+background-color: ghostwhite;
+}
+
+header {
+
+  letter color: red;
+}
+
+h1 {
+  size: 500;
+  background: lightgreen;
+  font-size: 50px;
+}
